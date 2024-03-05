@@ -1,0 +1,1 @@
+export declare function autoLog<This, ValueType extends number>(accessor: ClassAccessorDecoratorTarget<This, ValueType>, ctxt: ClassAccessorDecoratorContext<This, ValueType>): ClassAccessorDecoratorResult<This, ValueType>;

@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "rootDir": "./src",
+    "outDir": "./dist",
+    "target": "ES2022",
+    /*tells the compiler to select the module format based on the content of the
+package.json file.*/
+    "module": "Node16",
+    // "allowJs": true,
+    // "checkJs": true,
+    "declaration": true
+  }
+}
